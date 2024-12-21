@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgApplication.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgApplication.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgApplication.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgTimer.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgTimer.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgTimer.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgException.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgException.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgException.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgImage.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgImage.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgImage.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgTrackball.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgTrackball.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgTrackball.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgWindow.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgWindow.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgWindow.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgUtil.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgUtil.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgUtil.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLError.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLError.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLFunction.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLFunction.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLImage.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLImage.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLShader.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLShader.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLWindow.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/abcgOpenGLWindow.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_tables.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_impl_sdl2.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_impl_sdl2.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_impl_sdl2.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/abcg/external/fmt",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/fmt.dir/includes_CXX.rsp -O3 -DNDEBUG -w -std=gnu++20 -o CMakeFiles/fmt.dir/format.cc.o -c /home/ufabc/Documentos/BajaModelViewerV2/abcg/external/fmt/format.cc",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/abcg/external/fmt/format.cc"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/examples/bajaviewer2",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer2.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/bajaviewer2.dir/main.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/main.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/main.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/examples/bajaviewer2",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer2.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/bajaviewer2.dir/model.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/model.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/model.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/examples/bajaviewer2",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer2.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/bajaviewer2.dir/window.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/window.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/window.cpp"
+},
+{
+  "directory": "/home/ufabc/Documentos/BajaModelViewerV2/build/examples/bajaviewer2",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer2.dir/includes_CXX.rsp -O3 -DNDEBUG -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -std=gnu++20 -o CMakeFiles/bajaviewer2.dir/trackball.cpp.o -c /home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/trackball.cpp",
+  "file": "/home/ufabc/Documentos/BajaModelViewerV2/examples/bajaviewer2/trackball.cpp"
+}
+]
